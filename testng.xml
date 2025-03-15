@@ -1,0 +1,9 @@
+<suite name="APITestSuite">
+    <test name="API Tests">
+        <classes>
+            <class name="Tests.Create_User"/>
+            <class name="Tests.Retrieve_User"/>
+            <class name="Tests.Update_User"/>
+        </classes>
+    </test>
+</suite>
